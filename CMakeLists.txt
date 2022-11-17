@@ -3,4 +3,4 @@ project(untitled C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(untitled "Chapter1/1.2/main.c")
+add_executable(untitled "Chapter1/Examples/1.2/main.c")

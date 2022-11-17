@@ -1,0 +1,4 @@
+    The type of input that would be most likely to uncover bugs would be an input
+that had a few different words sepperated by a space, new line, and tab. This
+would be the best as it would expose if any of the escape character cases didn't work,
+or if there was an issue with the state system.
